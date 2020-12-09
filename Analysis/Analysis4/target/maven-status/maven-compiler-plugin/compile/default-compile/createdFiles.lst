@@ -1,0 +1,11 @@
+com/neu/CompositeKeyClass.class
+com/neu/PartitionMapperClass.class
+com/neu/CompositeKeyComparator.class
+com/neu/PartitionerClass.class
+com/neu/NaturalKeyGroupingComparator.class
+com/neu/AverageAndCountMapper.class
+com/neu/SortingMapper.class
+com/neu/SortingReducerClass.class
+com/neu/ReducerClass.class
+com/neu/NaturalKeyPartitioner.class
+com/neu/DriverClass.class
